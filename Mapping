@@ -1,0 +1,8 @@
+MARS ROVER
+
+DOMAIN : MAPPING
+
+The data output from LIDARs (collected by the LASER bheam to determine the distance between sensor and the object) is converted to 3D print.
+
+Technology used is Datascience using python. The libraries used are matplotlib ,pandas ,numpy..
+
