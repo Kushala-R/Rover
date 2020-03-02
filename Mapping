@@ -6,3 +6,8 @@ The data output from LIDARs (collected by the LASER bheam to determine the dista
 
 Technology used is Datascience using python. The libraries used are matplotlib ,pandas ,numpy..
 
+
+
+Date : 02-03-2020
+*Done with the simple conversion of basic data into 2D graph using matpltlib and pandas.
+*Refrence : https://youtu.be/a9UrKTVEeZA
